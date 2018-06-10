@@ -2,7 +2,7 @@
 //  main.m
 //  ArgParserTest
 //
-//  Created bymazerlodge on 6/9/18.
+//  Created by mazerlodge on 6/9/18.
 //  Copyright © 2018 mazerlodge. All rights reserved.
 //
 
