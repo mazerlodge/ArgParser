@@ -72,7 +72,7 @@
     
     // determine if the arg has a value, and if so if it has the value specified.
     if ([self isInArgs:name withAValue:true])
-        if ([self getArgValue:name] == value)
+        if ([[self getArgValue:name] isEqualToString:value])
             bRval = true;
     
     return bRval;
